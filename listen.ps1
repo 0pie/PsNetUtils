@@ -1,4 +1,4 @@
-# This will listen on port 443
+# Listening on port 443
 $listener = [System.Net.Sockets.TcpListener]443; $listener.Start();
  
 while($true)
