@@ -1,4 +1,4 @@
-# PsUtils
+# Powershell Network Utils
 A collection of powershell scripts I use as a sysadmin.
 
 # Usage
